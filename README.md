@@ -43,6 +43,14 @@ Contact and Support
 -  Social Media Integration
    Allows users to share educational content and news through social media platforms.
 
+4. Entity Relationship Diagram :
+   ![image](https://github.com/user-attachments/assets/cccc1027-82b3-4dac-9215-ad565c644afe)
+
+5. Link hosting & domain website Pure-Earth
+   -------
+
+6. Definisi Utama pada halaman-halaman
+    1 ) Homepage : 
 Footer
 Links to the privacy policy, terms and conditions, and contact information for the development team.
 </p>
